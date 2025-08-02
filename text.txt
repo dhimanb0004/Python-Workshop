@@ -1,1 +1,1 @@
-This is a kickstart to your python deveopment
+Hey, This is Dhiman. Welcome to the Python Workshop
